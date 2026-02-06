@@ -5,7 +5,7 @@
 ---
 
 > Action Mode
-https://res.cloudinary.com/dist1isdk/video/upload/v1770398005/ff_ixx4mb.mp4
+<video src="https://res.cloudinary.com/dist1isdk/video/upload/v1770398001/ff2_i25npv.mp4"/>
 
 > Replies
 https://res.cloudinary.com/dist1isdk/video/upload/v1770398001/ff2_i25npv.mp4
