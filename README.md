@@ -7,6 +7,14 @@
 > Action Mode
 <video src="https://res.cloudinary.com/dist1isdk/video/upload/v1770398001/ff2_i25npv.mp4"></video>
 
+
+
+https://github.com/user-attachments/assets/6d4f4cb6-60aa-43a9-bfe7-89a475bdd696
+
+
+https://github.com/user-attachments/assets/9a40860f-6a45-4f90-a8f7-e58a6967fe83
+
+
 > Replies
 https://res.cloudinary.com/dist1isdk/video/upload/v1770398001/ff2_i25npv.mp4
 
