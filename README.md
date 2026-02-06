@@ -4,15 +4,12 @@
 
 ---
 
-> Action Mode
+https://github.com/user-attachments/assets/b902f9dc-25e8-4512-a247-07ff7b1230de
 
 
-https://github.com/user-attachments/assets/3ceaa044-df71-42e0-bdda-4c6cf4d00050
-
-> Replies
+https://github.com/user-attachments/assets/3008b074-1482-4c9b-bcc7-8517ee61790b
 
 
-https://github.com/user-attachments/assets/ef34cd04-7071-4f93-a7b2-d2a5a28e6d97
 
 ## What it does currently
 - **X (Twitter)**: Direct messages, follows, posts, replies, and retrieves content from communities and specific profiles
