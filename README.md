@@ -5,18 +5,10 @@
 ---
 
 > Action Mode
-<video src="https://res.cloudinary.com/dist1isdk/video/upload/v1770398001/ff2_i25npv.mp4"></video>
-
-
-
-https://github.com/user-attachments/assets/6d4f4cb6-60aa-43a9-bfe7-89a475bdd696
-
-
-https://github.com/user-attachments/assets/9a40860f-6a45-4f90-a8f7-e58a6967fe83
-
+https://github.com/user-attachments/assets/3ceaa044-df71-42e0-bdda-4c6cf4d00050
 
 > Replies
-https://res.cloudinary.com/dist1isdk/video/upload/v1770398001/ff2_i25npv.mp4
+https://github.com/user-attachments/assets/ef34cd04-7071-4f93-a7b2-d2a5a28e6d97
 
 ## What it does currently
 - **X (Twitter)**: Direct messages, follows, posts, replies, and retrieves content from communities and specific profiles
